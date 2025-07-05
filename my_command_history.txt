@@ -33,3 +33,9 @@
 24-05-2025 05:51:08  425  git push
 05-07-2025 10:17:10  392  "New Terminal"
 05-07-2025 10:29:24  393  git add .
+05-07-2025 10:29:31  394  git commit -am "add gitignore "
+05-07-2025 10:29:36  395  git push
+05-07-2025 10:32:12  396  pip install google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib
+05-07-2025 10:33:48  392  "New Terminal"
+05-07-2025 11:10:35  410  cd ..
+05-07-2025 11:10:39  411  git add .
