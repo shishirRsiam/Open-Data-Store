@@ -39,6 +39,7 @@
 05-07-2025 10:33:48  392  "New Terminal"
 05-07-2025 11:10:35  410  cd ..
 05-07-2025 11:10:39  411  git add .
+<<<<<<< HEAD
 05-07-2025 11:11:33  412  git commit -am "add all GoogleDriveManager code"
 05-07-2025 11:11:37  413  git push
 01-08-2025 16:51:39  394  git clone https://github.com/shishirRsiam/odoo-enterprise-addons.git
@@ -53,3 +54,33 @@
 14-08-2025 14:33:50  398  python convert_nnumber_en_to_bn.py 
 14-08-2025 14:34:00  399  python convert_nnumber_en_to_bn.py 
 14-08-2025 14:34:10  400  python convert_nnumber_en_to_bn.py 
+=======
+25-07-2025 22:43:30   64  nano ~/.bashrc
+25-07-2025 22:43:55   64  nano ~/.bashrc
+25-07-2025 22:44:05   65  pip install apenai
+25-07-2025 22:44:26   66  pip install openai
+25-07-2025 22:45:59   67  python3.10 -m pip install openai
+25-07-2025 22:47:11   68  ls
+26-07-2025 10:11:04   64  nano ~/.bashrc
+26-07-2025 10:11:04   64  nano ~/.bashrc
+31-07-2025 23:02:21   69  code .
+31-07-2025 23:02:22   69  code .
+31-07-2025 23:03:25   70  python PyPDF2.py 
+31-07-2025 23:04:31   71  python PyPDF2.py 
+31-07-2025 23:04:47   72  python pdf_to_docx_converter.py 
+31-07-2025 23:05:07   73  python pdf_to_docx_converter.py 
+31-07-2025 23:05:59   74  python pdf_to_docx_converter.py 
+31-07-2025 23:06:17   69  code .
+31-07-2025 23:06:18   69  code .
+31-07-2025 23:10:39   70  python pdf_to_docx_converter.py 
+31-07-2025 23:11:22   71  python pdf_to_docx_converter.py 
+31-07-2025 23:11:40   72  python pdf_to_docx_converter.py 
+31-07-2025 23:12:24   73  python pdf_to_docx_converter.py 
+31-07-2025 23:12:29   74  python pdf_to_docx_converter.py 
+31-07-2025 23:20:34   75  pip install pdfplumber
+31-07-2025 23:20:49   76  pip install --user pdfplumber
+31-07-2025 23:21:01   77  python pdf_to_docx_converter.py 
+31-07-2025 23:26:44   78  python pdf_to_docx_converter.py 
+31-07-2025 23:27:12   79  python pdf_to_docx_converter.py 
+31-07-2025 23:39:09   80  push "add error code"
+>>>>>>> 916fd9128c7e92869918d4daffdd09003f7c3d6c
