@@ -39,3 +39,17 @@
 05-07-2025 10:33:48  392  "New Terminal"
 05-07-2025 11:10:35  410  cd ..
 05-07-2025 11:10:39  411  git add .
+05-07-2025 11:11:33  412  git commit -am "add all GoogleDriveManager code"
+05-07-2025 11:11:37  413  git push
+01-08-2025 16:51:39  394  git clone https://github.com/shishirRsiam/odoo-enterprise-addons.git
+01-08-2025 16:51:42  394  git clone https://github.com/shishirRsiam/odoo-enterprise-addons.git
+01-08-2025 16:51:45  394  git clone https://github.com/shishirRsiam/odoo-enterprise-addons.git
+01-08-2025 16:52:35  395  git pull
+14-08-2025 14:15:46  394  git clone https://github.com/shishirRsiam/odoo-enterprise-addons.git
+14-08-2025 14:15:47  394  git clone https://github.com/shishirRsiam/odoo-enterprise-addons.git
+14-08-2025 14:32:26  395  s
+14-08-2025 14:32:27  396  ls
+14-08-2025 14:33:37  397  python convert_nnumber_en_to_bn.py 
+14-08-2025 14:33:50  398  python convert_nnumber_en_to_bn.py 
+14-08-2025 14:34:00  399  python convert_nnumber_en_to_bn.py 
+14-08-2025 14:34:10  400  python convert_nnumber_en_to_bn.py 
